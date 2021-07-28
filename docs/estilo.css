@@ -1,0 +1,57 @@
+#faixa {
+    background: lightskyblue;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.redessociais {
+    font-family: 'Verdana', sans-serif;
+    float: left;
+    margin-left: 20px;
+}
+
+#instagram {
+    margin-top: 25px;
+}
+
+#facebook {
+    margin-top: 40px;
+}
+
+#whatsapp {
+    margin-top: 40px;
+}
+
+
+#linkinstagram {
+    margin-top: 37px;
+}
+
+#linkfacebook {
+    margin-top: 65px;
+}
+
+#linkwhatsapp {
+    margin-top: 70px;
+}
+
+h1 {
+    margin-left: 30px;
+    font-family: 'Verdana', sans-serif;
+    text-align: center;
+    color: lightskyblue;
+}
+
+#texto {
+    font-family: 'Verdana', sans-serif;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.linha {
+    border: none;
+    border-top: 2px solid;
+    margin-top: 10px;
+    color: lightskyblue;
+}
+
